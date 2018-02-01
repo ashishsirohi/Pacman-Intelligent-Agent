@@ -32,7 +32,7 @@ $ python pacman.py -l trickySearch -p SearchAgent -a fn=bfs,prob=FoodSearchProbl
 $ python pacman.py -l trickySearch -p SearchAgent -a fn=astar,prob=FoodSearchProblem,heuristic=foodHeuristic
 ```
 
-### Project 2: 
+### Project 2: Multi-Agent Pacman
 From the [project 2 page](http://ai.berkeley.edu/multiagent.html): *In this project, you will design agents for the classic version of Pacman, including ghosts. Along the way, you will implement both minimax and expectimax search and try your hand at evaluation function design.*
 
 Some sample scenarios to try with are:
