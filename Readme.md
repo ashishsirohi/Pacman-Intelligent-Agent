@@ -10,10 +10,10 @@ Fall 2017 semester at ASU was lit for me as I took the Introduction to Artificia
 From the [project 1 page](http://ai.berkeley.edu/search.html): *In this project, your Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. You will build general search algorithms and apply them to Pacman scenarios.*
 
 In this part, I implemented the following search Algorithms:</br>
-Breadth First Search
-Depth First Search
-Uniform Cost Search
-A* Search with Heauristic
+Breadth First Search</br>
+Depth First Search</br>
+Uniform Cost Search</br>
+A* Search with Heauristic</br>
 
 Some sample scenarios to try with are:
 
